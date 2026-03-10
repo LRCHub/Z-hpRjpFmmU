@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Like It Like It",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-10T07:31:39.066149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like It Like It",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Like_It_Like_It_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like It Like It",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/02_Like_It_Like_It_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like It Like It",
+      "artist": "Marcus & Martinus",
+      "has_synced": true,
+      "path": "select/03_Like_It_Like_It_Marcus_&_Martinus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like It Like It",
+      "artist": "Markus & Martinus",
+      "has_synced": true,
+      "path": "select/04_Like_It_Like_It_Markus_&_Martinus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like It (Like It)",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/05_Like_It_(Like_It)_CLC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LIKE IT LIKE IT",
+      "artist": "SECRET NUMBER",
+      "has_synced": true,
+      "path": "select/06_LIKE_IT_LIKE_IT_SECRET_NUMBER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like It Like It (feat. Silentó)",
+      "artist": "Marcus & Martinus",
+      "has_synced": true,
+      "path": "select/07_Like_It_Like_It_(feat._Silentó)_Marcus_&_Martinus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like It Like It",
+      "artist": "Marcus & Martinus feat. Silentó",
+      "has_synced": true,
+      "path": "select/08_Like_It_Like_It_Marcus_&_Martinus_feat._Silentó.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just the Way You Like It (Like It long mix)",
+      "artist": "The S.O.S. Band",
+      "has_synced": false,
+      "path": "select/09_Just_the_Way_You_Like_It_(Like_It_long_mix)_The_S.O.S._Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just the Way You Like It (Like It Long Mix)",
+      "artist": "S.O.S. Band",
+      "has_synced": false,
+      "path": "select/10_Just_the_Way_You_Like_It_(Like_It_Long_Mix)_S.O.S._Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Like It Like It",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Like_It_Like_It_TWICE.txt"
+    }
+  ]
+}
